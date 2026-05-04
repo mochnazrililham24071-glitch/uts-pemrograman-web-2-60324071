@@ -43,7 +43,7 @@ Buka file: config/database.php
 Pastikan sesuai: $conn = new mysqli("localhost","root","","uts_perpustakaan_60324071");
 
 5. Jalankan Aplikasi
-Buka browser: http://localhost/Perpustakaan/P4/UTS_60324071
+Buka browser: http://localhost/UTS_60324071
 
 Struktur Folder:
 UTS_60324071/
